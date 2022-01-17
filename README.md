@@ -8,4 +8,4 @@
 - 📫 How to reach me: Twitter Linkedin Email Medium
 - ⚡ Fun fact: I can remember phone numbers! It's both impressive and annoying.
 
-![Abhigna's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=SOLARISED_LIGHT&show_icons=true)
+![Abhigna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhignaYedavalli&theme=SOLARISED_LIGHT&show_icons=true)
