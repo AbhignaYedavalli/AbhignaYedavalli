@@ -1,3 +1,7 @@
+![banner](https://user-images.githubusercontent.com/91946381/149756092-509395dd-3f63-4792-8618-54cd004e13c7.png)
+
+
+
 ### Hey! I'm Abhigna Yedavalli! 
 
 - 🔭 I’m currently working on a financial portal.
@@ -5,7 +9,7 @@
 - 👯 I’m looking to collaborate on Web Development projects.
 - 🤔 I’m looking for help with learning French!
 - 💬 Ask me about what I do for a living! It's super cool stuff.
-- 📫 How to reach me: Twitter Linkedin Email Medium
+- 📫 How to reach me: [Twitter](https://twitter.com/Abhignahhh) | [Linkedin](https://www.linkedin.com/in/abhigna-yedavalli/) | [Email](abhignay81@gmail.com) | [Medium](https://medium.com/@Abhigna-Yedavalli)
 - ⚡ Fun fact: I can remember phone numbers! It's both impressive and annoying.
 
 ![Abhigna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhignaYedavalli&theme=radical&show_icons=true)
