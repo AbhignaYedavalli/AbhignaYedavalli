@@ -9,4 +9,5 @@
 - ⚡ Fun fact: I can remember phone numbers! It's both impressive and annoying.
 
 ![Abhigna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhignaYedavalli&theme=SOLARISED_LIGHT&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhignaYedavalli&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhignaYedavalli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
